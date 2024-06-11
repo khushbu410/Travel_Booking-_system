@@ -1,0 +1,12 @@
+
+tourisum module
+
+url:
+http://localhost/tourism/
+
+
+admin module
+
+url:http://localhost/tourism/admin/
+username:admin
+password:admin123
